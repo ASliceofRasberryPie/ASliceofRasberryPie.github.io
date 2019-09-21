@@ -68,7 +68,7 @@ html {
 .typewriter-text {
     overflow: hidden;
   	letter-spacing: 2px;
- 	animation: typing 5s steps(30, end), blink .75s step-end infinite;
+ 	animation: typing 5s steps(35, end), blink .75s step-end infinite;
     animation-delay: 4s;
     white-space: nowrap;
     font-size: 30px;
@@ -89,8 +89,6 @@ b,i {
     font-weight: 100;
     font-family: Courier, monospace;
 }
-
-
 
 footer {
 	text-align: center;
